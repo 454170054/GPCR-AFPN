@@ -22,7 +22,7 @@ Before using GPCR-AFPN, you are recommended to create a new conda virtual enviro
 * Using GPCR-AFPN to identify GPCRs is easy. You can see the examples in
   this <a href='https://github.com/454170054/GPCR-AFPN/blob/main/src/demo/predict_demo.ipynb'>notebook</a>.<br>
 * If you want to repeat the experiment results reported in the paper, you can execute the
-  files <a href='https://github.com/454170054/GPCR-AFPN/blob/main/src/code/cross_validation_experiment.py'>
+  files <a href='https://github.com/454170054/GPCR-AFPN/blob/main/src/code/cross_validation.py'>
   cross_validation_experiment.py</a> and <a href='https://github.com/454170054/GPCR-AFPN/blob/main/src/code/independent_test.py'>
   independent_test.py</a>.
 * If you want to use different datasets to train a predictor, you can see the
