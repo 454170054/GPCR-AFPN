@@ -15,7 +15,6 @@ Before using GPCR-AFPN, you are recommended to create a new conda virtual enviro
     - conda activate gpcr-afpn
     - cd gpcr-afpn
     - pip install -r requirements.txt
-3. unzip the rar file "resources/model/fastText.model.wv.vectors_ngrams.rar" to its parent dir "model".
 
 # Using GPCR-AFPN<hr>
 
